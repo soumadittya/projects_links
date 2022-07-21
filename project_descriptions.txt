@@ -1,1 +1,59 @@
+1. Kubernetes cluster for MongoDB and MongoDB Express:
+Github Link:
+Description:
+
+2. Weather Forecast Website:
+Website Link: http://ussweather.herokuapp.com/
+GitHub Link: https://github.com/soumadittya/weather_app_updated
+Description:
+This is a weather forecating website which includes the following features:
+i. Login feature for storing the list of cities which an user is interested in for quick access.
+ii. User can select his/ her hometown for quick access.
+iii. Changing background theme along according to the current weather condition of the selected city.
+
+3. Remote Live Streaming Video Camera For Raspberry Pi Using Django:
+GitHub Link: https://github.com/soumadittya/remote_video_camera-live_streaming-recording-django-opencv-raspberry_
+Description:
+This software has been made mainly for running on raspberry pi. The objective is to stream live video (video can be recorded if necessary) from a
+webcam (connected with a raspberry pi) attached to main door of a house to any device (by entering the IP address of the raspberry pi in the web
+browser) over a same wifi network using a web browser when someone knocks Records (each time an user uses the software to live stream) can
+also be maintained by recording the username and the time of login.
+
+4. Phishing Attack Detection Using Artificial Intelligence
+GitHub Link: https://github.com/soumadittya/phishing_attack_detection_using_ai/tree/main
+Description:
+This project aims at detecting phishing websites using Artificial Neural Networks and XGBoost based on previous data.
+
+5. Noble Prize Winner Details Website Using ReactJS
+GitHub Link: https://github.com/soumadittya/reactjs_nobel_prize_winner_details_website
+Description:
+This is a website developed using ReactJS which shows details of all the nobel prize winners till date. It has several pages and options to filter out
+details of nobel prize winners.
+
+6. Face Classification using VGG_19 and OpenCV
+GitHub Link: https://github.com/soumadittya/face_classification_vgg_19_opencv_python
+Description:
+It can classify faces from a live video.
+
+7. Boston City Real Estate Price Prediction
+GitHub Link: https://github.com/soumadittya/boston_city_real_estate_price_prediction
+Description:
+This project aims at predicting real estate prices in the city of Boston by applying Machine Learning on previous data.
+
+8. Aircraft Bird Hit Analysis
+GitHub Link: https://github.com/soumadittya/aircraft_bird_hit_analysis_machine_learning_DSC_VIT
+Description:
+This project aims at finding out the following two points:
+1. Which part of aircraft is the most vulnerable to bird hit.
+2. Which particular species of bird has hit aircrafts the most number of times.
+
+9. Connect Two PCs Over LAN
+GitHub Link: https://github.com/soumadittya/Connect-PC-on-LAN
+Description:
+This project aims at enable one PC to control another one over a Local Area Network.
+  
+
+
+
+
 
