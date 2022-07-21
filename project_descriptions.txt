@@ -24,7 +24,7 @@ GitHub Link: https://github.com/soumadittya/phishing_attack_detection_using_ai/t
 Description:
 This project aims at detecting phishing websites using Artificial Neural Networks and XGBoost based on previous data.
 
-5. Noble Prize Winner Details Website Using ReactJS
+5. Nobel Prize Winner Details Website Using ReactJS
 GitHub Link: https://github.com/soumadittya/reactjs_nobel_prize_winner_details_website
 Description:
 This is a website developed using ReactJS which shows details of all the nobel prize winners till date. It has several pages and options to filter out
