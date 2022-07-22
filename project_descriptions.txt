@@ -1,6 +1,7 @@
 1. Kubernetes cluster for MongoDB and MongoDB Express:
-Github Link:
+Github Link: https://github.com/soumadittya/kubernetes_cluster_mongodb_and_mongodb_express
 Description:
+It is a kubernetes cluster which is running mongodb express and mongodb.
 
 2. Weather Forecast Website:
 Website Link: http://ussweather.herokuapp.com/
