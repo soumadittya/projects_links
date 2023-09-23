@@ -1,0 +1,16 @@
+2. Weather Forecast Website:
+Website Link: http://ussweather.herokuapp.com/
+GitHub Link: https://github.com/soumadittya/weather_app_updated
+Description:
+This is a weather forecating website which includes the following features:
+i. Login feature for storing the list of cities which an user is interested in for quick access.
+ii. User can select his/ her hometown for quick access.
+iii. Changing background theme along according to the current weather condition of the selected city.
+
+3. Remote Live Streaming Video Camera For Raspberry Pi Using Django:
+GitHub Link: https://github.com/soumadittya/remote_video_camera-live_streaming-recording-django-opencv-raspberry_
+Description:
+This software has been made mainly for running on raspberry pi. The objective is to stream live video (video can be recorded if necessary) from a
+webcam (connected with a raspberry pi) attached to main door of a house to any device (by entering the IP address of the raspberry pi in the web
+browser) over a same wifi network using a web browser when someone knocks Records (each time an user uses the software to live stream) can
+also be maintained by recording the username and the time of login.
